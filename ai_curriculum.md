@@ -1,5 +1,7 @@
 # Essential AI/ML Curriculum for a Mathematically Advanced Reader
 
+아래 목록에 나오는 책과 논문은 종이와 연필로 직접 꼼꼼히 쓰고 풀면서 읽어야지, 인공지능으로 요약 등등을 해서는 공부가 전혀 안 됩니다.
+
 (As of 30 March 2026)
 
 This repository contains a concise self-directed curriculum for studying machine learning and artificial intelligence from a mathematically serious perspective.
